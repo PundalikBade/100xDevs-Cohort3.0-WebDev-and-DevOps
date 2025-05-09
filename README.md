@@ -1,10 +1,5 @@
 # 🚀 100xDevs Cohort 3.0 - Web Dev + DevOps
 
-![GitHub Stars](https://img.shields.io/github/stars/GSingh2432002/100xDevs-Cohort3.0-WebDev-and-DevOps?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/GSingh2432002/100xDevs-Cohort3.0-WebDev-and-DevOps?style=social)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/GSingh2432002/100xDevs-Cohort3.0-WebDev-and-DevOps)
-![GitHub Repo Size](https://img.shields.io/github/repo-size/GSingh2432002/100xDevs-Cohort3.0-WebDev-and-DevOps)
-
 Welcome to my notes repository for **100xDevs Cohort 3.0** by **Harkirat Singh**! This repo is your go-to resource for everything you need to master:
 
 📚 **MERN Stack** – Build full-stack apps using **MongoDB**, **Express.js**, **React.js**, and **Node.js** with practical examples  
@@ -13,22 +8,10 @@ Welcome to my notes repository for **100xDevs Cohort 3.0** by **Harkirat Singh**
 
 ---
 
-## 📑 Table of Contents
+### 🔥 Clone the Repository and Kickstart Your Journey! 💫
 
-- [🚀 Getting Started](#-getting-started)
-- [📚 MERN Stack](#-mern-stack)
-- [📝 DevOps](#-devops)
-- [✅ Assignments](#-assignments)
-- [📂 Folder Structure](#-folder-structure)
-- [🙌 Contributing](#-contributing)
-- [📃 License](#-license)
-
----
-
-## 🚀 Getting Started
-
-Run the following commands in your terminal to clone and explore the project locally:
+Run the following commands in your terminal to get started locally:
 
 ```bash
-git clone https://github.com/GSingh2432002/100xDevs-Cohort3.0-WebDev-and-DevOps.git
+git clone https://github.com/PundalikBade/100xDevs-Cohort3.0-WebDev-and-DevOps
 cd 100xDevs-Cohort3.0-WebDev-and-DevOps
