@@ -13,5 +13,5 @@ Welcome to my notes repository for **100xDevs Cohort 3.0** by **Harkirat Singh**
 Run the following commands in your terminal to get started locally:
 
 ```bash
-git clone https://github.com/PundalikBade/100xDevs-Cohort3.0-WebDev-and-Dev
+git clone https://github.com/PundalikBade/100xDevs-Cohort3.0-WebDev-and-DevOps
 cd 100xDevs-Cohort3.0-WebDev-and-DevOps
