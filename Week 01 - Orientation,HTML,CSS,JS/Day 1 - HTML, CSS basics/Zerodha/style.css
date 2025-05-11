@@ -1,0 +1,77 @@
+body {
+  height: 100vh;     /* Full viewport height */
+  width: 100vw;      /* Full viewport width */
+  margin: 0;         /* Removes default margin */
+  padding: 0;        /* Optional: removes default padding */
+  box-sizing: border-box;
+}
+
+.Navbar {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 15px;
+  padding-right: 300px;
+  padding-left: 300px;
+}
+
+.ZoroImg {
+  height: 17px;
+}
+
+.NavItems {
+  display: flex;
+  gap: 35px; /* Correct place for gap */
+  
+}
+
+.NavItem {
+  font-size: 20px;
+  color: gray;
+}
+.landingIMG{
+	
+	max-height: 45vh;
+	    max-width: 100%;
+	
+}
+.LadingIcon{
+	display: flex;
+	justify-content: center	;
+	padding-top: 80px;
+}
+
+.text{
+ text-align: center;
+
+      padding: 20px;
+}
+.text1{
+	 font-family: Arial, sans-serif;
+	 font-size: 2.75rem;
+    line-height: 1.25;
+}
+.text2{
+	font-size: 1.25rem;
+    font-weight: 400;
+    margin-top: 10px;
+}
+.btndiv{
+	text-align: center;
+}
+.btn{
+	
+	    text-align: center;
+	margin-top: 20px;
+      padding: 12px 24px;
+      font-size: 16px;
+      background-color: #007bff;
+      color: white;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+	      padding: 10px 30px;
+
+}
+utton:hover {
+      background-color: #0056b3;
+    }
